@@ -1,0 +1,15 @@
+"D:\IAR Systems\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\arm\bin\armjlink2.dll" 
+
+"C:\Users\fmk12\Desktop\飞思卡尔智能车\0 进击的矮子（test）\GNUCar v1.0\Prj\IAR\DZ10_Release\Exe\vcan_Kinetis.out" 
+
+--plugin "D:\IAR Systems\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR Systems\arm\config\debugger\NXP\Kxx.dmac" 
+
+--flash_loader "D:\IAR Systems\arm\config\flashloader\NXP\FlashK60Dxxx64K.board" 
+
+
+
+
